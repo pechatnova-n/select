@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("cars"),document.querySelector(".text"),(void fetch("https://bfs01.getcourse.ru/public/files/12250/88/84120897322424565eb4cddeea2b910a.json?e=1646917199&s=orTpab35regXD8SQ-eGyOQ")).then((e=>{console.log(e.json())}))})();
